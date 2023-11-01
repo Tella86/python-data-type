@@ -1,0 +1,8 @@
+print('Hello!')
+print('what is your name?')
+name=input()
+print('what is your age?')
+age=input()
+print('where do you live?')
+location=input()
+print(name,'is',age,'years old','he lives in',location)
